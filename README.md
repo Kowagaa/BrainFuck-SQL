@@ -3,7 +3,7 @@ BrainFuck Interpreter in SQL
 
 Developer: Forex Software Ltd https://forexsb.com
 
-This code uses only memory variables and tables. It doesn't modify the database. You can connect it to any MS SQL DB.
+This code uses only memory variables and tables. It doesn't modify the database. You may connect it to any MS SQL DB.
 
 ![BrainFuck in LinkPad](https://image-holder.forexsb.com/store/BrainFuck-interpretter-in-SQL.png)
 
